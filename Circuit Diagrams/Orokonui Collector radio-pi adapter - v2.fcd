@@ -1,0 +1,40 @@
+[FIDOCAD]
+LI 275 65 100 65 0
+LI 200 70 275 70 0
+LI 105 80 245 80 0
+RV 230 80 230 80 0
+RV 280 50 235 85 0
+LI 275 65 275 50 0
+LI 275 85 275 70 0
+LI 245 55 245 50 0
+LI 270 50 270 60 0
+LI 270 60 170 60 0
+LI 240 50 240 60 0
+SA 240 60 0
+LI 270 85 270 75 0
+LI 270 75 105 75 0
+LI 245 85 245 80 0
+LI 240 85 240 75 0
+SA 240 75 0
+TY 235 40 4 3 0 0 0 Bitstream++Charter Ethernet connector
+TY 270 45 4 3 0 0 0 Bitstream++Charter 2/1
+TY 240 45 4 3 0 0 0 Bitstream++Charter 6/3
+TY 240 85 4 3 0 0 0 Bitstream++Charter 4/5
+TY 270 85 4 3 0 0 0 Bitstream++Charter 8/7
+TY 295 65 4 3 0 0 0 Bitstream++Charter <-- Link to RX -->
+RV 190 165 165 135 0
+LI 185 160 200 160 0
+LI 170 140 170 120 0
+LI 170 60 170 140 0
+LI 170 140 175 140 0
+LI 185 55 185 150 0
+LI 185 150 180 150 0
+TY 155 170 4 3 0 0 0 Bitstream++Charter Programming Socket
+LI 200 70 200 160 0
+SA 170 75 0
+SA 245 135 0
+TY 85 75 4 3 0 0 0 Bitstream++Charter Rx (data)
+TY 95 70 4 3 0 0 0 Bitstream++Charter GND
+TY 90 60 4 3 0 0 0 Bitstream++Charter 3v3
+TY 30 65 4 3 0 0 0 Bitstream++Charter <-- Raspberry Pi
+LI 245 55 185 55 0

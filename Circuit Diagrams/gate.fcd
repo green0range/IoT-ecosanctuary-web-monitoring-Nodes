@@ -1,0 +1,64 @@
+[FIDOCAD]
+RV 75 60 50 50 0
+LI 55 50 55 25 0
+LI 60 45 60 50 0
+LI 65 45 65 50 0
+LI 65 50 65 35 0
+LI 70 60 70 65 0
+LI 65 70 65 60 0
+LI 60 60 60 70 0
+LI 55 60 55 65 0
+TY 55 50 4 3 0 0 0 Bitstream++Charter 08M2
+LI 30 25 140 25 0
+LI 55 85 110 85 0
+MC 40 70 0 0 ey_libraries.pasres0
+MC 40 40 0 0 ey_libraries.pasres0
+LI 60 70 50 70 0
+LI 35 40 35 70 0
+LI 35 50 25 50 0
+SA 35 50 0
+LI 55 65 55 85 0
+LI 50 40 50 25 0
+LI 60 45 25 45 0
+LI 30 25 30 40 0
+LI 30 40 25 40 0
+LI 60 40 150 40 0
+SA 60 45 0
+SA 55 25 0
+SA 50 25 0
+TY 40 70 4 3 0 0 0 Bitstream++Charter 22k
+TY 35 40 4 3 0 0 0 Bitstream++Charter 10k
+LI 150 25 150 40 0
+LI 140 25 140 15 0
+LI 150 25 150 15 0
+LI 110 85 160 85 0
+LI 160 85 160 15 0
+MC 124 35 0 0 ey_libraries.didled0
+LI 65 35 105 35 0
+MC 110 35 0 0 ey_libraries.pasres0
+LI 140 35 140 25 0
+TY 129 12 4 3 0 0 0 Bitstream++Charter GND
+TY 160 10 4 3 0 0 0 Bitstream++Charter +
+TY 145 10 4 3 0 0 0 Bitstream++Charter DAT
+LI 60 40 60 45 0
+LI 70 45 175 45 0
+LI 175 45 175 15 0
+LI 65 70 190 70 0
+LI 190 70 190 15 0
+TY 170 10 4 3 0 0 0 Bitstream++Charter hIN
+TY 185 10 4 3 0 0 0 Bitstream++Charter hOUT
+LI 140 35 130 35 0
+LI 70 45 70 50 0
+SA 70 65 0
+SA 70 75 0
+LI 70 75 70 85 0
+MC 75 65 0 0 ey_libraries.pasres0
+LI 85 65 85 25 0
+TY 10 40 4 3 0 0 0 Bitstream++Charter Prog
+MC 110 90 0 0 ey_libraries.gendcb1
+LI 95 25 95 100 0
+LI 95 100 110 100 0
+SA 95 25 0
+SA 85 25 0
+SA 70 85 0
+SA 110 85 0
